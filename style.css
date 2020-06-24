@@ -1,0 +1,127 @@
+body{
+    background-color: rgb(80, 114, 97);
+    
+}
+
+.ButtonB{
+    width: 150px;
+    height: 100px;
+    background-color: rgb(90, 134, 112);
+    border: 5px dotted coral;
+    color: rgb(26, 53, 35);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 590px;
+    border-radius: 50px;
+    margin-top: 400px;
+    display: block;
+    position: absolute;
+}
+
+
+.ButtonB:hover{
+        color: coral;
+}
+
+.ButtonF{
+    width: 150px;
+    height: 100px;
+    background-color: rgb(90, 134, 112);
+    border: 5px dotted coral;
+    color: rgb(26, 53, 35);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 590px;
+    margin-top: 130px;
+    border-radius: 50px;
+    display: block;
+    position: absolute;
+}
+
+.ButtonF:hover{
+    color: coral;
+}
+
+.ButtonL{
+    width: 150px;
+    height: 100px;
+    background-color: rgb(90, 134, 112);
+    border: 5px dotted coral;
+    color: rgb(26, 53, 35);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 400px;
+    margin-top: 260px;
+    border-radius: 50px;
+    display: block;
+    position: absolute;
+
+}
+
+
+.ButtonL:hover{
+    color: coral;
+}
+
+
+.ButtonR{
+    width: 150px;
+    height: 100px;
+    background-color: rgb(90, 134, 112);
+    border: 5px dotted coral;
+    color: rgb(26, 53, 35);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 780px;
+    margin-top: 260px;
+    border-radius: 50px;
+    display: block;
+    position: absolute;
+
+}
+
+
+.ButtonR:hover{
+    color: coral;
+}
+
+.ButtonS{
+    width: 150px;
+    height: 100px;
+    background-color: rgb(90, 134, 112);
+    border: 5px dotted coral;
+    color: rgb(26, 53, 35);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 590px;
+    margin-top: 260px;
+    border-radius: 50px;
+    display: block;
+    position: absolute;
+
+}
+
+
+.ButtonS:hover{
+    color: coral;
+}
+
+
+h1{
+    color: coral;
+    margin-left: 482px;
+    margin-top: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    position: absolute;
+}
+
+
+.frame{
+    width: 590px;
+    height: 420px;
+    border: 4px double coral;
+    position: absolute;
+    margin-top: 105px;
+    margin-left: 370px;
+}
